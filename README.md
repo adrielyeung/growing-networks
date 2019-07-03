@@ -1,0 +1,2 @@
+# growing-networks
+A lot of connections can be described using network theory: hyperlinks between websites, citations between papers, relationships between people etc. This project aims to study how properties of a network, such as degree distribution (number of connections per point), change as the network grows, tweaking the ways with which the network grows. A scale-free behaviour (similar to as seen in Complexity Science) can be found in networks as well.
