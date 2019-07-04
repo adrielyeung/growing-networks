@@ -6,7 +6,7 @@ A lot of connections can be described using network theory: hyperlinks between w
 Program written in Python, using the ```networkx``` package.
 
 ## References
-1. A.-L. Barab´asi and R. Albert, Emergence of scaling in random networks Science, 286, 173 (1999).
+1. A.-L. Barab\´asi and R. Albert, Emergence of scaling in random networks Science, 286, 173 (1999).
 
 ## Acknowledgements
 Credits to Dr. Tim Evans for designing the project, and Max Falkenberg McGillivray for the code for log-binning of the data (```logbin6_2_2018.py```).
