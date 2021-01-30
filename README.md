@@ -7,6 +7,3 @@ Program written in Python 3, using the ```networkx``` package. A Kolmogorov-Smir
 
 ## References
 1. A.-L. Barabási and R. Albert, Emergence of scaling in random networks Science, 286, 173 (1999).
-
-## Acknowledgements
-Credits to Dr. Tim Evans for designing the project, and Max Falkenberg McGillivray for the code for log-binning of the data (```logbin6_2_2018.py```).  Also special thanks to my friend Dily for completing the project with me all along.
